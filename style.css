@@ -1,8 +1,33 @@
 
 body {
     text-align: center;
-    background-color: rgb(82, 78, 144);
+    background-color: hsla(244, 81%, 16%, 0.74);
+  
 }
 .capa{
     width: 100%;
+    border-radius: 25px;
+    box-shadow: 1px 1px 6px rgba(72, 4, 181, 0.61);
+}
+.beneficios{3
+    text-align: left;
+    background-color: hsla(244, 81%, 16%, 0.74);
+    display: inline-block  
+
+}
+ul{
+    display: inline-block; 
+    vertical-align: top;
+    font-size: 20px;
+    
+}
+li{
+    padding: 25px;
+    border-radius: 25px;
+}
+.foto-beneficios{
+    width: 40%;
+    border-radius: 25px;
+    box-shadow: 3px 3px 4px rgb(245, 245, 245);
+
 }
