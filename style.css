@@ -1,33 +1,51 @@
-
-body {
+main {
     text-align: center;
-    background-color: hsla(244, 81%, 16%, 0.74);
-  
+    background: #bfd3c1;
+    color: rgba(12, 12, 12, 0.886);
 }
-.capa{
-    width: 100%;
-    border-radius: 25px;
-    box-shadow: 1px 1px 6px rgba(72, 4, 181, 0.61);
+body{
+    font-size: 25px;
 }
-.beneficios{3
-    text-align: left;
-    background-color: hsla(244, 81%, 16%, 0.74);
-    display: inline-block  
+.foto-logo{
+margin: 15px;
 
+
+}
+
+.capa{ 
+   width: 80%; 
+
+}
+nav{
+    position: absolute;
+    top: 90px;
+    right: 65px;
+}
+nav a:hover {
+    font-size: 34px;
+    font-weight: bold;
+    text-shadow: 2px 3px 10px #9dd8a3;
+    transition: 1s;
+    font-size: 30px; 
+    text-decoration: none;
+    text-transform: uppercase;
+    padding-left: 20px;
+    color: aqua;
+}
+.conteudo{
+    background: rgb(215, 218, 220);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(37, 35, 63, 0.906);
+}
+.beneficios {
+    background-color: rgb(190, 224, 194);;
 }
 ul{
-    display: inline-block; 
+    display: inline-block ;
     vertical-align: top;
-    font-size: 20px;
-    
-}
-li{
-    padding: 25px;
-    border-radius: 25px;
+    margin-left: 100px;
+    margin-right: 300px;
 }
 .foto-beneficios{
-    width: 40%;
-    border-radius: 25px;
-    box-shadow: 3px 3px 4px rgb(245, 245, 245);
-
+    width: 30%;
 }

@@ -1,2 +1,2 @@
-# Tancredo-1A-Pensamentocomputacional
-site desenvolvido em HTML e CSSFooter
+# Trancredo-1c-Pensamento-Computacional
+Desenvolvimento de site em HTML e CSS
